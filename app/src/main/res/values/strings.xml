@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Test01</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+
+    <string-array name="spinnerSetMaxMember">
+        <item> 2명</item>
+        <item> 3명</item>
+        <item> 4명</item>
+        <item> 5명</item>
+        <item> 6명</item>
+        <item> 7명</item>
+        <item> 8명</item>
+        <item> 9명</item>
+        <item> 10명</item>
+    </string-array>
+
+    <string-array name="spinnerSetLanguage">
+        <item>스페인어</item>
+        <item>영어</item>
+        <item>일본어</item>
+        <item>중국어</item>
+        <item>프랑스어</item>
+        <item>한국어</item>
+    </string-array>
+
+    <string-array name="spinnerSetGU">
+        <item>
+
+
+        </item>
+
+    </string-array>
+
+    <string name="facebook_app_id">777887715662677</string>
+    <string name="title_activity_register">Register</string>
+
+</resources>
