@@ -32,12 +32,12 @@ public class ProfileDetailEditActivity extends ActionBarActivity {
         ab.setHomeAsUpIndicator(R.drawable.ic_keyboard_arrow_left_black_24dp);
         ab.setDisplayHomeAsUpEnabled(true);
 
-        TextView mName = (TextView)findViewById(R.id.profile_detail_user_name);
+        TextView mName = (TextView) findViewById(R.id.profile_detail_user_name);
         mName.setVisibility(View.INVISIBLE);
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        return true;
+        return false;
     }
 }

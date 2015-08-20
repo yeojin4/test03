@@ -4,8 +4,8 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">#eb7710</item>
-        <item name="colorPrimaryDark">#e05a01</item>
-        <item name="colorAccent">#1397ab</item>
+        <item name="colorPrimaryDark">#F3831F</item>
+        <item name="colorAccent">#e05a01</item>
 
         <item name="android:windowActionBar">false</item>
 
